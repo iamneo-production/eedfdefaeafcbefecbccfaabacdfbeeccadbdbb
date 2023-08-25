@@ -1,4 +1,4 @@
-package test.java.stepDefination;
+package test.java.stepdefination;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
