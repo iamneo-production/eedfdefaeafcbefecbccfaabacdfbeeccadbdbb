@@ -1,4 +1,4 @@
-package test.java.stepdefination;
+package test.java.stepDefination;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
@@ -32,6 +32,6 @@ public void addQuantity(){
         String a = driver.findElement(By.className("a-dropdown-prompt")).getText();
         if(a.equals("3")){
             System.out.println("Cart quantity equals given quantity");
-        }
+        }
     }
 }
